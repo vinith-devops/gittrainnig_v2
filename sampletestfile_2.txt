@@ -1,1 +1,14 @@
+filr for gitreset_2
+
+
+
+
+
+
+
+
+
+
+
+
 samplefile2 for git branching

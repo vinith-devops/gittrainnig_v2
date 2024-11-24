@@ -1,1 +1,14 @@
+file for gitreset_1
+
+
+
+
+
+
+
+
+
+
+
+
 samplefile1 for git branching
